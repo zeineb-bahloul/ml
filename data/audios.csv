@@ -1,0 +1,10 @@
+fichier,transcription_reference,sentiment_ref
+A01.wav,"Bonjour, je suis vraiment ravi de ma commande, le produit est magnifique et livré très vite.",positif
+A02.wav,"C'est scandaleux, j'ai reçu un article défectueux et personne ne répond au téléphone.",negatif
+A03.wav,"Bonjour, je confirme avoir bien reçu mon colis aujourd'hui comme indiqué sur le suivi.",neutre
+A04.wav,"Excellent rapport qualité-prix, je recommande cette boutique les yeux fermés.",positif
+A05.wav,"Très mécontent de la livraison, le carton était écrasé et l'objet est inutilisable.",negatif
+A06.wav,"Le produit correspond à la description sur le site, la taille est conforme.",neutre
+A07.wav,"Bravo au service client pour sa réactivité et sa gentillesse, cinq étoiles !",positif
+A08.wav,"Je demande le remboursement immédiat, le produit ne fonctionne pas du tout.",negatif
+A09.wav,"Colis récupéré en boutique ce matin, tout est conforme au bon de commande.",neutre

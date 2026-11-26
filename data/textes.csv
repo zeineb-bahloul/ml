@@ -1,0 +1,25 @@
+id,texte,sentiment_ref
+T01,"Produit conforme à la description, livraison super rapide en 24h, je recommande vivement !",positif
+T02,Article reçu cassé et le service client ne répond pas depuis une semaine. Très déçu.,negatif
+T03,Le colis est arrivé dans les délais annoncés. L'emballage est standard.,neutre
+T04,"Excellente qualité de fabrication, le rapport qualité-prix est imbattable.",positif
+T05,"La batterie ne tient même pas deux heures, c'est une arnaque complète.",negatif
+T06,"Produit correct pour le prix, fait le travail sans plus.",neutre
+T07,"Très satisfait de mon achat, l'interface est intuitive et fluide.",positif
+T08,"Mauvaise taille envoyée malgré ma confirmation de commande, retour compliqué.",negatif
+T09,Commande livrée ce matin. Couleur conforme à la photo du catalogue.,neutre
+T10,Un service après-vente exemplaire qui a résolu mon souci en quelques minutes !,positif
+T11,Matériau plastique très fragile qui s'est fissuré dès la première utilisation.,negatif
+T12,Fonctionne comme indiqué dans la notice d'utilisation.,neutre
+T13,C'est ma troisième commande sur cette boutique et je suis toujours aussi ravi.,positif
+T14,"Délai de livraison non respecté, deux semaines de retard sans aucune explication.",negatif
+T15,"Rien de particulier à signaler, article conforme aux spécifications techniques.",neutre
+T16,"Design élégant, performances au rendez-vous, cinq étoiles méritées.",positif
+T17,"Impossible d'activer la garantie sur le site, erreur systématique au paiement.",negatif
+T18,Le produit correspond à ce que j'avais commandé la semaine dernière.,neutre
+T19,"Emballage soigné, petit cadeau offert dans le carton, une attention très appréciée !",positif
+T20,"Ne fonctionne pas du tout avec mon ordinateur, incompatibilité non mentionnée.",negatif
+T21,Livraison effectuée en point relais comme prévu lors de la validation.,neutre
+T22,"Franchement bluffé par la rapidité et la qualité du produit, bravo à l'équipe.",positif
+T23,"Remboursement toujours en attente après plus d'un mois, fuyez ce vendeur.",negatif
+T24,"Dimensions exactes, installation réalisée en dix minutes.",neutre

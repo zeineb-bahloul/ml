@@ -1,0 +1,10 @@
+fichier,texte_attendu_ocr,sentiment_ref
+I01.png,AVIS CLIENT VÉRIFIÉ — ★★★★★ Livraison express et produit parfait ! Je recommanderai sans hésiter.,positif
+I02.png,"RÉCLAMATION COMMANDE #9921 Colis ouvert et article manquant. Service client injoignable, inadmissible !",negatif
+I03.png,"SUIVI DE LIVRAISON #4510 Votre colis a été déposé en point relais. Poids du paquet : 1,2 kg.",neutre
+I04.png,POST RÉSEAU SOCIAL — @ClientHeureux Incroyable qualité pour ce prix ! Merci pour la rapidité d'expédition.,positif
+I05.png,CAPTURE D'ÉCRAN — RETOUR PRODUIT L'appareil ne s'allume plus après 2 jours. Très mauvaise expérience d'achat.,negatif
+I06.png,FICHE PRODUIT — SPÉCIFICATIONS Modèle standard livré avec câble USB. Dimensions : 20 x 15 x 5 cm.,neutre
+I07.png,NOTE DE SATISFACTION : 10/10 Superbe finition et emballage impeccable. Une boutique en ligne très fiable.,positif
+I08.png,TICKET DE CAISSE / LITIGE Erreur de facturation : montant débité deux fois. Aucun remboursement reçu à ce jour.,negatif
+I09.png,CONFIRMATION DE RÉCEPTION Commande #7783 bien réceptionnée. Statut : Livraison terminée.,neutre

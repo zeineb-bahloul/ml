@@ -1,0 +1,19 @@
+﻿source,fichier,wer_%,cer_%,sentiment_ref,sentiment_predit,correct,confiance,texte_extrait
+image,I01.png,25.0,8.1,positif,neutre,False,0.4123,AVIS CLIENT VÉRIFIÉ — % xx x x Livraison express et produit parfait ! Je recommanderai sans hésiter.
+image,I02.png,0.0,0.0,negatif,negatif,True,0.4098,"RÉCLAMATION COMMANDE #9921 Colis ouvert et article manquant. Service client injoignable, inadmissible !"
+image,I03.png,0.0,0.0,neutre,neutre,True,0.6764,"SUIVI DE LIVRAISON #4510 Votre colis a été déposé en point relais. Poids du paquet : 1,2 kg."
+image,I04.png,0.0,0.0,positif,positif,True,0.6863,POST RÉSEAU SOCIAL — @ClientHeureux Incroyable qualité pour ce prix ! Merci pour la rapidité d'expédition.
+image,I05.png,0.0,0.0,negatif,negatif,True,0.51,CAPTURE D'ÉCRAN — RETOUR PRODUIT L'appareil ne s'allume plus après 2 jours. Très mauvaise expérience d'achat.
+image,I06.png,0.0,0.0,neutre,neutre,True,0.6605,FICHE PRODUIT — SPÉCIFICATIONS Modèle standard livré avec câble USB. Dimensions : 20 x 15 x 5 cm.
+image,I07.png,0.0,0.0,positif,positif,True,0.5493,NOTE DE SATISFACTION : 10/10 Superbe finition et emballage impeccable. Une boutique en ligne très fiable.
+image,I08.png,0.0,0.0,negatif,negatif,True,0.6564,TICKET DE CAISSE / LITIGE Erreur de facturation : montant débité deux fois. Aucun remboursement reçu à ce jour.
+image,I09.png,0.0,0.0,neutre,negatif,False,0.4054,CONFIRMATION DE RÉCEPTION Commande #7783 bien réceptionnée. Statut : Livraison terminée.
+audio,A01.mp3,0.0,0.0,positif,positif,True,0.5618,"Bonjour, je suis vraiment ravi de ma commande, le produit est magnifique et livré très vite."
+audio,A02.mp3,0.0,0.0,negatif,negatif,True,0.6299,C'est scandaleux. J'ai reçu un article défectueux et personne ne répond au téléphone.
+audio,A03.mp3,0.0,0.0,neutre,neutre,True,0.5418,"Bonjour, je confirme avoir bien reçu mon colis aujourd'hui, comme indiqué sur le suivi."
+audio,A04.mp3,27.3,4.0,positif,positif,True,0.7281,Excellents rapports qualité-pris. Je recommande cette boutique les yeux fermés.
+audio,A05.mp3,7.1,1.2,negatif,positif,False,0.498,"Très mécontant de la livraison, le carton était écrasé et l'objet est inutilisable."
+audio,A06.mp3,0.0,0.0,neutre,neutre,True,0.4805,Le produit correspond à la description sur le site. La taille est conforme.
+audio,A07.mp3,0.0,0.0,positif,positif,True,0.552,"Bravo au service client pour sa réactivité et sa gentillesse, cinq étoiles."
+audio,A08.mp3,0.0,0.0,negatif,negatif,True,0.7016,Je demande le remboursement immédiat. Le produit ne fonctionne pas du tout.
+audio,A09.mp3,7.7,4.2,neutre,neutre,True,0.4056,Collier récupéré en boutique ce matin. Tout est conforme au bon de commande.

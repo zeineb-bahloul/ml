@@ -1,0 +1,72 @@
+{
+  "train_size": 24,
+  "test_size": 18,
+  "validation_croisee": {
+    "LogisticRegression": {
+      "f1_macro_moyen": 0.241,
+      "ecart_type": 0.15
+    },
+    "LinearSVC": {
+      "f1_macro_moyen": 0.232,
+      "ecart_type": 0.15
+    }
+  },
+  "test_externe": {
+    "accuracy": 0.833,
+    "f1_macro": 0.833,
+    "matrice_confusion": [
+      [
+        5,
+        0,
+        1
+      ],
+      [
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        1,
+        5
+      ]
+    ],
+    "labels": [
+      "negatif",
+      "neutre",
+      "positif"
+    ]
+  },
+  "top_termes": {
+    "negatif": [
+      "ne",
+      "pas",
+      "non",
+      "deux",
+      "remboursement",
+      "plus mois",
+      "remboursement toujours",
+      "mois"
+    ],
+    "neutre": [
+      "indiqué notice",
+      "indiqué",
+      "notice",
+      "fonctionne indiqué",
+      "notice utilisation",
+      "conforme",
+      "relais prévu",
+      "prévu validation"
+    ],
+    "positif": [
+      "qualité",
+      "boutique toujours",
+      "boutique",
+      "aussi ravi",
+      "commande boutique",
+      "ravi",
+      "toujours aussi",
+      "troisième commande"
+    ]
+  }
+}
